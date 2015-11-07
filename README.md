@@ -1,26 +1,30 @@
 # ZPPlayerButton
 
-![alt tag](http://7xkwuq.com1.z0.glb.clouddn.com/player_button.gif)
+![alt tag][image-1]
 
 init 
 
-+ (instancetype)button;
-+ (instancetype)buttonWithOrigin:(CGPoint)origin;
+`+ (instancetype)button;`
+`+ (instancetype)buttonWithOrigin:(CGPoint)origin;`
 
 config
 
-@property (nonatomic, assign) NSUInteger lineNum;
-@property (nonatomic, assign) CGFloat cornerRadius;
-@property (nonatomic, assign) CGFloat duration;
-@property (nonatomic, strong) NSArray *initializePositions;
+`@property (nonatomic, assign) NSUInteger lineNum;`
+
+`@property (nonatomic, assign) CGFloat cornerRadius;`
+
+`@property (nonatomic, assign) CGFloat duration;`
+
+`@property (nonatomic, strong) NSArray *initializePositions;`
 
 setup
 
-- (void)setup;
+`- (void)setup;`
 
 animation
 
-- (void)startAnimation;
-- (void)stopAnimation;
+`- (void)startAnimation;`
+`- (void)stopAnimation;`
 
 
+[image-1]:	http://7xkwuq.com1.z0.glb.clouddn.com/player_button.gif
