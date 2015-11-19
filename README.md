@@ -1,6 +1,6 @@
 # ZPPlayerButton
 
-![alt tag][https://cloud.githubusercontent.com/assets/5633917/11263321/b48173c6-8ec4-11e5-8e66-5956767adc7d.gif]
+![alt tag](https://cloud.githubusercontent.com/assets/5633917/11263321/b48173c6-8ec4-11e5-8e66-5956767adc7d.gif)
 
 init 
 
